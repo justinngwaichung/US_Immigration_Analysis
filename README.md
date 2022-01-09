@@ -6,11 +6,10 @@ But it's much more than that! It's a topic that we're personally interested in a
 For a long time, immigration policy has been a key subject of political debate in the U.S. As international students ourselves, the U.S. work permit and permanent residency application system can come across as mystifying at times and even frustrating.
 
 We believe a lot of fellow international students share the same concern. Through our analysis, we hope answer some of the following basic factual questions and ultimately help people better understand the immigration system that is in place. That's what motivated our analysis!
-
-What are the most important determinants of a "successful" immigration application?
-What affects the "waiting time" of an application?
-Is there any noticeable variation in the success rate of applicants of different nationalities?
-Does computer science skills contribute to a higher salary and a higher chance of immigration approval, even if one is not working in the tech industry?
+* What are the most important determinants of a "successful" immigration application?
+* What affects the "waiting time" of an application?
+* Is there any noticeable variation in the success rate of applicants of different nationalities?
+* Does computer science skills contribute to a higher salary and a higher chance of immigration approval, even if one is not working in the tech industry?
 
 # Data & Methodology
 The core dataset we used is Permanent Employment Certification (PERM) application data for 2018-2021.
